@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">app1</string>
+    <string name="Btn_Principal">¡Click Here!</string>
+    <string name="second_btn">segundo boton</string>
+    <string name="switchonoff">ON/OFF</string>
+    <string name="Btn_Secundario">Segundo Boton</string>
+    <string name="Switchon">Encendido</string>
+    <string name="Switchoff">Apagado</string>
+</resources>
